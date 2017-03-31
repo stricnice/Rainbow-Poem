@@ -6,4 +6,6 @@ blue
 
 yellow
 
+magenta
+
 these are colors!
